@@ -17,7 +17,7 @@ const Header = () =>{
                         <li className="nav-item nav-link"><b><span className="fa fa-opencart"></span> E-KART</b></li>
                         <li className="nav-item"><Link className="nav-link" to="/">Home</Link></li>
                         <li className="productsmenu nav-item">
-                            <Link to = '/' className="productsbtn nav-link">Products <span className="fas fa-chevron-down"></span></Link>
+                            Products <span className="fas fa-chevron-down"></span>
                             <div className="productslist">
                                 <div>
                                     <Link to="/smartphones" className="nav-link">Smartphones</Link>
